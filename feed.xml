@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Bellon Móveis</title>
-    <link href="https://mauriciobellon.github.io/bellonmoveis/feed.xml" rel="self" />
-    <link href="https://mauriciobellon.github.io/bellonmoveis" />
+    <link href="http://bellonmoveis.com.br/feed.xml" rel="self" />
+    <link href="http://bellonmoveis.com.br" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Mauricio Bellon</name>
     </author>
-    <id>https://mauriciobellon.github.io/bellonmoveis</id>
+    <id>http://bellonmoveis.com.br</id>
 
 </feed>
